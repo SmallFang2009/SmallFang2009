@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning the courses of senior high school.
 - 💞️ I’m looking to collaborate on anyone willing to contribute to the open source community. Maybe 3 years later.
 - 📫 Contact me: sfxf09@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: Just SmallFang is OK.
 - ⚡ Fun fact: I'm a liberal.
 <!---
 SmallFang2009/SmallFang2009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
